@@ -28,4 +28,5 @@ void ibu::cetakAnak(){
     cout << endl;
 
 }
+#endif
 
